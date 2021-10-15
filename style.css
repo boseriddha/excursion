@@ -1,1 +1,58 @@
+body {
+    background-color: black;
+}
 
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+video {
+    display: block;
+    margin: auto;
+}
+
+.link-1,
+.link-2 {
+    text-align: center;
+}
+
+.camp-img {
+    display: block;
+    margin: 10px auto;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.phone-mockup {
+    display: block;
+    margin: 20px auto;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
